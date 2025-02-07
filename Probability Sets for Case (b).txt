@@ -1,0 +1,78 @@
+Probability Sets for Case (b)
+
+Probability Set 1:
+child1: Win = 0.734, Draw = 0.117, Lose = 0.149
+child2: Win = 0.580, Draw = 0.240, Lose = 0.180
+child3: Win = 0.637, Draw = 0.248, Lose = 0.116
+child4: Win = 0.733, Draw = 0.158, Lose = 0.109
+Time Empty: 0.019887
+Time Full: 6e-06
+
+Probability Set 2:
+child1: Win = 0.523, Draw = 0.373, Lose = 0.104
+child2: Win = 0.653, Draw = 0.136, Lose = 0.211
+child3: Win = 0.118, Draw = 0.153, Lose = 0.729
+child4: Win = 0.117, Draw = 0.656, Lose = 0.227
+Time Empty: 0.01388
+Time Full: 0.000437
+
+Probability Set 3:
+child1: Win = 0.686, Draw = 0.113, Lose = 0.201
+child2: Win = 0.168, Draw = 0.563, Lose = 0.269
+child3: Win = 0.101, Draw = 0.768, Lose = 0.131
+child4: Win = 0.705, Draw = 0.142, Lose = 0.153
+Time Empty: 0.063103
+Time Full: 4e-06
+
+Probability Set 4:
+child1: Win = 0.614, Draw = 0.105, Lose = 0.281
+child2: Win = 0.175, Draw = 0.180, Lose = 0.646
+child3: Win = 0.757, Draw = 0.137, Lose = 0.106
+child4: Win = 0.746, Draw = 0.143, Lose = 0.111
+Time Empty: 0.125393
+Time Full: 0.0
+
+Probability Set 5:
+child1: Win = 0.100, Draw = 0.138, Lose = 0.762
+child2: Win = 0.697, Draw = 0.178, Lose = 0.125
+child3: Win = 0.503, Draw = 0.113, Lose = 0.384
+child4: Win = 0.534, Draw = 0.317, Lose = 0.149
+Time Empty: 0.420599
+Time Full: 0.0
+
+Probability Set 6:
+child1: Win = 0.112, Draw = 0.207, Lose = 0.681
+child2: Win = 0.136, Draw = 0.536, Lose = 0.328
+child3: Win = 0.226, Draw = 0.169, Lose = 0.605
+child4: Win = 0.641, Draw = 0.215, Lose = 0.144
+Time Empty: 0.417239
+Time Full: 0.0
+
+Probability Set 7:
+child1: Win = 0.307, Draw = 0.421, Lose = 0.272
+child2: Win = 0.367, Draw = 0.389, Lose = 0.243
+child3: Win = 0.146, Draw = 0.372, Lose = 0.482
+child4: Win = 0.663, Draw = 0.224, Lose = 0.112
+Time Empty: 0.187761
+Time Full: 0.0
+
+Probability Set 8:
+child1: Win = 0.726, Draw = 0.146, Lose = 0.128
+child2: Win = 0.269, Draw = 0.294, Lose = 0.436
+child3: Win = 0.634, Draw = 0.190, Lose = 0.176
+child4: Win = 0.262, Draw = 0.286, Lose = 0.451
+Time Empty: 0.000222
+Time Full: 0.004863
+
+Probability Set 9:
+child1: Win = 0.310, Draw = 0.567, Lose = 0.123
+child2: Win = 0.341, Draw = 0.343, Lose = 0.316
+child3: Win = 0.471, Draw = 0.206, Lose = 0.323
+child4: Win = 0.360, Draw = 0.113, Lose = 0.527
+Time Empty: 0.003653
+Time Full: 9.9e-05
+
+Probability Set 10:
+Equal Probabilities, 1/3 chance of each
+Time Empty: 0.026383
+Time Full: 3e-06

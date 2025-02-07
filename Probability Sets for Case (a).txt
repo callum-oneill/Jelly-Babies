@@ -1,0 +1,68 @@
+Probability Sets for Case (a)
+
+Probability Set 1:
+child1: Win = 0.7339, Draw = 0.1172, Lose = 0.1489
+child2: Win = 0.5804, Draw = 0.2396, Lose = 0.1800
+child3: Win = 0.6366, Draw = 0.2479, Lose = 0.1155
+child4: Win = 0.7332, Draw = 0.1582, Lose = 0.1085
+Average Rounds: 331.846
+
+Probability Set 2:
+child1: Win = 0.7811, Draw = 0.1093, Lose = 0.1096
+child2: Win = 0.5792, Draw = 0.2905, Lose = 0.1303
+child3: Win = 0.6580, Draw = 0.1046, Lose = 0.2374
+child4: Win = 0.2690, Draw = 0.3160, Lose = 0.4150
+Average Rounds: 112.464
+
+Probability Set 3:
+child1: Win = 0.5970, Draw = 0.1174, Lose = 0.2855
+child2: Win = 0.7686, Draw = 0.1062, Lose = 0.1252
+child3: Win = 0.6575, Draw = 0.2385, Lose = 0.1040
+child4: Win = 0.2706, Draw = 0.4295, Lose = 0.2999
+Average Rounds: 208.643
+
+Probability Set 4:
+child1: Win = 0.5017, Draw = 0.3430, Lose = 0.1553
+child2: Win = 0.2878, Draw = 0.2980, Lose = 0.4143
+child3: Win = 0.1970, Draw = 0.6097, Lose = 0.1933
+child4: Win = 0.4819, Draw = 0.3772, Lose = 0.1409
+Average Rounds: 392.72
+
+Probability Set 5:
+child1: Win = 0.2694, Draw = 0.4607, Lose = 0.2699
+child2: Win = 0.3328, Draw = 0.2445, Lose = 0.4227
+child3: Win = 0.7605, Draw = 0.1128, Lose = 0.1267
+child4: Win = 0.6905, Draw = 0.1387, Lose = 0.1709
+Average Rounds: 181.438
+
+Probability Set 6:
+child1: Win = 0.4340, Draw = 0.2834, Lose = 0.2826
+child2: Win = 0.5840, Draw = 0.2786, Lose = 0.1374
+child3: Win = 0.6349, Draw = 0.1959, Lose = 0.1692
+child4: Win = 0.1832, Draw = 0.2182, Lose = 0.5986
+Average Rounds: 353.474
+
+Probability Set 7:
+child1: Win = 0.6818, Draw = 0.2003, Lose = 0.1179
+child2: Win = 0.4831, Draw = 0.1357, Lose = 0.3812
+child3: Win = 0.1736, Draw = 0.2747, Lose = 0.5518
+child4: Win = 0.4496, Draw = 0.1370, Lose = 0.4134
+Average Rounds: 56.611
+
+Probability Set 8:
+child1: Win = 0.6075, Draw = 0.1559, Lose = 0.2366
+child2: Win = 0.7054, Draw = 0.1320, Lose = 0.1626
+child3: Win = 0.4395, Draw = 0.3353, Lose = 0.2252
+child4: Win = 0.6884, Draw = 0.1120, Lose = 0.1995
+Average Rounds: 264.975
+
+Probability Set 9:
+child1: Win = 0.1626, Draw = 0.5133, Lose = 0.3241
+child2: Win = 0.6753, Draw = 0.1032, Lose = 0.2216
+child3: Win = 0.7959, Draw = 0.1005, Lose = 0.1036
+child4: Win = 0.5555, Draw = 0.3124, Lose = 0.1321
+Average Rounds: 109.808
+
+Probability Set 10:
+Equal Probabilities, 1/3 chance of each
+Average Rounds: 366.028
